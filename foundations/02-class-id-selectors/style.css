@@ -1,0 +1,19 @@
+.impares {
+    background-color: rgb(233, 177, 186);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.impares.cooler{
+    font-size: 24px;
+}
+
+#num2{
+    color: rgb(38, 38, 247);
+    font-size: 36px;
+}
+
+#num4{
+    background-color: rgb(130, 207, 13);
+    font-size: 24px;
+    font-weight: bold;
+}
